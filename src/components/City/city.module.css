@@ -1,0 +1,6 @@
+.city{
+    cursor: pointer;
+}
+.city:active{
+    background: teal;
+}
